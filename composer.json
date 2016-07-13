@@ -1,5 +1,5 @@
 {
-    "name": "dp6ff/container",
+    "name": "dp6lab/container",
     "description": "This is a IoC demo container. Please do not use to production enviroment.",
     "type": "library",
     "license": "MIT",
